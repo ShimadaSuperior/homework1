@@ -1,0 +1,10 @@
+a=input()
+a,b=a.split(" ")
+a=int(a)
+b=int(b)
+c=a+b
+d=a*b
+f=a-b
+print("summary=",c)
+print("multiply=",d)
+print("subtraction=",f)
