@@ -1,0 +1,1 @@
+a={"Natasha":2,"Alina":3,"Marat":15,"Lev":1,"Valera":0}
